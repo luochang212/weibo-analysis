@@ -1,11 +1,15 @@
-# Data analysis of my weibo
+# Weibo data analysis
 
-A small practice to get familiar with String, csv, list, panda and numpy
+A small practice to get familiar with String, csv, list, panda and numpy.
+
+* convert web page to csv file
+* handle data via panda and numpy
+* plot graph via matplotlib
 
 ## feature
 
-* convert web page to csv file
+![Device distribution](img/device_distribution.png)
 
-* handle data via panda and numpy
+![Sending time distribution](img/time_distribution.png)
 
-* plot graph via matplotlib
+![Heat map](img/heat_map.png)
