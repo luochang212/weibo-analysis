@@ -10,8 +10,8 @@ A small practice to get familiar with String, csv, list, panda and numpy.
 
 ## graph
 
+![Heat map](img/heat_map.png)
+
 ![Device distribution](img/device_distribution.png)
 
 ![Sending time distribution](img/time_distribution.png)
-
-![Heat map](img/heat_map.png)
