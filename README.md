@@ -1,12 +1,12 @@
 # Weibo data analysis
 
-## feature
-
 A small practice to get familiar with String, csv, list, panda and numpy.
 
-* convert web page to csv file
-* handle data via panda and numpy
-* plot graph via matplotlib
+## feature
+
+* Convert web page to csv file.
+* Handle data via panda and numpy.
+* Plot graph via matplotlib.
 
 ## graph
 
