@@ -1,6 +1,8 @@
 # weibo_analysis
 
-A simple project to analyze my weibo data. it also help me to get familiar with the operations of String, csv, list, pandas and numpy in Python.
+A simple project to analyze my weibo data. 
+
+it also help me to get familiar with the operations of String, csv, list, pandas and numpy in Python.
 
 ## Step
 
