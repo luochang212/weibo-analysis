@@ -2,7 +2,7 @@
 
 A simple project to analyze my weibo data. 
 
-it also help me to get familiar with the operations of String, csv, list, pandas and numpy in Python.
+It also help me to get familiar with the operations of String, csv, list, pandas and numpy in Python.
 
 ## Chinese info
 
