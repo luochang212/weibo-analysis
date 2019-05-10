@@ -1,4 +1,4 @@
-# weibo_analysis
+# weibo-analysis
 
 A simple project to analyze my weibo data. 
 
